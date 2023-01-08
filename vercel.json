@@ -1,0 +1,29 @@
+{
+  "redirects": [
+    {
+      "source": "/blog",
+      "destination": "https://www.dejavu.moe",
+      "permanent": false
+    },
+    {
+      "source": "/pgp",
+      "destination": "https://pgp.dejavu.moe",
+      "permanent": false
+    },
+    {
+      "source": "/github",
+      "destination": "https://github.com/MoeOffice/xvo.es",
+      "permanent": false
+    },
+    {
+      "source": "/telegram",
+      "destination": "https://t.me/dejavuBlog",
+      "permanent": false
+    },
+    {
+      "source": "/group",
+      "destination": "https://t.me/dejavuGroup",
+      "permanent": false
+    }
+  ]
+}
