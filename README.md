@@ -4,7 +4,7 @@
 
 1. Minimal and Simple
 
-    *it's static, very fast and stable.*
+    *keep fast and stable.*
 
  2. Extremely Safe
 
@@ -12,7 +12,7 @@
 
  3. Easy Deploy
 
-    *based on Cloudflare pages.*
+    *selfhosted on Cloudflare pages or Vercel...*
 
  4. All of Yours
 
