@@ -19,3 +19,11 @@
     *data of URL redirect in single file.*
 
 **How to use:** https://www.dejavu.moe/posts/the-minimal-and-simple-url-shortener/
+
+1. Fork this repo.
+
+2. Edit the `_redirects` or `vercel.json` files.
+
+3. Deploy it with Cloudflare Pages or Vercel.
+
+4. Enjoy!
