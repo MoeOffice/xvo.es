@@ -18,7 +18,7 @@
 
     *data of URL redirect in single file.*
 
-**How to use:** https://www.dejavu.moe/posts/the-minimal-and-simple-url-shortener/
+**How to use:** <https://www.dejavu.moe/posts/the-minimal-and-simple-url-shortener/>
 
 1. Fork this repo.
 
