@@ -2,6 +2,8 @@
 
 **A simple, minimal and safe URL Shortener.**
 
+> Powerd by [**Cloudflare** <img src="img/CF_logomark.svg" alt="CF_logomark" width="50" height="50">](https://www.cloudflare.com/)
+
 1. Minimal and Simple
 
     *keep fast and stable.*
@@ -18,7 +20,7 @@
 
     *data of URL redirect in single file.*
 
-**How to use:** <https://www.dejavu.moe/posts/the-minimal-and-simple-url-shortener/>
+**How to use:** <https://dejavu.moe/posts/the-minimal-and-simple-url-shortener/>
 
 1. Fork this repo.
 
